@@ -48,11 +48,11 @@ main div img {
     margin-left: -5px;
 }
 @media (max-width: 900px) {
-  .mainimageone {
+  .imageone {
       width: 100%;
   }
 @media (max-width: 900px) {
-  .mainimagetwo {
+  .imagetwo {
       display: none;
   }
 }
